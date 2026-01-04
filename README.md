@@ -26,3 +26,7 @@ Soode:
 • Random Forest classifier
 • Gradient boosting classifier (XGBoost / LightGBM) — required
 
+# Task B:
+Yamen & Soode: 
+• K-Nearest Neighbors Regressor & Ordinary Least Squares / Linear Regression
+
